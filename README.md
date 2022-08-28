@@ -1,1 +1,1 @@
-#Stripe submenu
+#Stripe submenus
