@@ -4,7 +4,6 @@ import Hero from './Hero'
 import Sidebar from './Sidebar'
 import Submenu from './Submenu'
 function App() {
-  console.log('object');
   return (
     <>
       <Navbar/>
